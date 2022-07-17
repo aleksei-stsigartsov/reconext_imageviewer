@@ -1,11 +1,11 @@
 # Image viewer ? Media player
 
-<h3>About</h3>
+<h3>About:</h3>
 <pre>
 Test project to check out speed of loading huge images
 </pre>
 
-<h3>Installation</h3>
+<h3>Installation:</h3>
 <pre>
 0. cd reconext_imageviewer
 1. npm i
