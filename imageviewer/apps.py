@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class ImageviewerConfig(AppConfig):
+class ImageViewerConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
     name = 'imageviewer'
