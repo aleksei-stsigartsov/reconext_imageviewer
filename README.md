@@ -3,6 +3,8 @@
 <h3>About:</h3>
 <pre>
 Test project to check out speed of loading huge images
+
+*Currently under implementation stage*
 </pre>
 
 <h3>Installation:</h3>
