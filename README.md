@@ -3,8 +3,9 @@
 <h3>About:</h3>
 <pre>
 Test project to check the speed of loading huge images
-
+------------------------------------------------------
 *Currently under implementation stage*
+*Just started frontend part*
 </pre>
 
 <h3>Installation:</h3>
