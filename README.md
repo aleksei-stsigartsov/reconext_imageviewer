@@ -11,7 +11,7 @@ Test project to check the speed of loading huge images
 
 <h3>Installation:</h3>
 <pre>
-0. cd reconext_imageviewer
+0. git clone the project && cd reconext_imageviewer
 1. run virtual env:
 -- linux -- source env/bin/activate 
 -- windows -- env/Scripts/activate
