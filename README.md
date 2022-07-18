@@ -12,11 +12,13 @@ Test project to check the speed of loading huge images
 <h3>Installation:</h3>
 <pre>
 0. cd reconext_imageviewer
-1. npm i
-2. pip install django 
-3. run virtual env:
+1. run virtual env:
 -- linux -- source env/bin/activate 
 -- windows -- env/Scripts/activate
+2. npm i
+3. install django:
+-- linux -- python3 -m pip install -e django/
+-- windows -- python -m pip install -e django/
 4. deploy frontend:
 npm run dev
 5. run backend server: 
@@ -30,6 +32,7 @@ npm run dev
 React JS - frontend part javascript framework 
 Redux - determines changes to an application's stat
 Django - server part python framework
+Node JS - for npm package
 Webpack - combination of build and system processing, file minification 
 Babel - is responsible for backward compatibility of the program
 Pillow Library - python library for uploading and working with pictures
