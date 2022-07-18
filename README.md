@@ -6,7 +6,7 @@ Test project to check the speed of loading huge images
 ------------------------------------------------------
 
 *Currently under implementation stage*
-*Just started frontend part*
+*Working on frontend part*
 </pre>
 
 <h3>Installation:</h3>
