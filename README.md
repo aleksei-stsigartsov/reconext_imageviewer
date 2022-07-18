@@ -13,11 +13,18 @@ Test project to check the speed of loading huge images
 <pre>
 0. git clone the project && cd reconext_imageviewer
 1. run virtual env:
+-- linux -- 
+python3 -m venv env
+source env/bin/activate 
+-- windows --
 python -m venv env
--- linux -- source env/bin/activate 
--- windows -- env/Scripts/activate
+env/Scripts/activate
 2. npm i
 3. pip install django
+4. pip install djangorestframework
+5. make migrations:
+-- linux -- python3 manage.py makemigrations
+-- windows -- python manage.py makemigrations
 4. deploy frontend:
 npm run dev
 5. run backend server: 
