@@ -23,8 +23,8 @@ env/Scripts/activate
 3. pip install django
 4. pip install djangorestframework
 5. make migrations:
--- linux -- python3 manage.py makemigrations
--- windows -- python manage.py makemigrations
+-- linux -- python3 manage.py migrate
+-- windows -- python manage.py migrate
 4. deploy frontend:
 npm run dev
 5. run backend server: 
