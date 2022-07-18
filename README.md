@@ -17,9 +17,7 @@ python -m venv env
 -- linux -- source env/bin/activate 
 -- windows -- env/Scripts/activate
 2. npm i
-3. install django:
--- linux -- python3 -m pip install -e django/
--- windows -- python -m pip install -e django/
+3. pip install django
 4. deploy frontend:
 npm run dev
 5. run backend server: 
