@@ -13,6 +13,7 @@ Test project to check the speed of loading huge images
 <pre>
 0. git clone the project && cd reconext_imageviewer
 1. run virtual env:
+python -m venv env
 -- linux -- source env/bin/activate 
 -- windows -- env/Scripts/activate
 2. npm i
