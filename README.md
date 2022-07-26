@@ -2,13 +2,10 @@
 
 ------------------------------------------------------
 TEST APPLICATION: *Currently under implementation stage*
-
-
 ## Table of contents:
 1. [Installation](#installation)
 2. [Requirements](#requirements)
 3. [Tools](#tools)
-
 ## Installation: 
 - __1. Git Clone:__
 <pre>-- open terminal --
@@ -45,7 +42,6 @@ cd..</pre>
 <pre>-- linux -- python3 manage.py createsuperuser
 -- windows -- python manage.py createsuperuser
 -- visit localhost:8000/admin or http://127.0.0.1:8000/admin --</pre>
-
 ## Requirements:
 Extension | Version
 --- | ---
@@ -59,7 +55,6 @@ Extension | Version
 `pytz` | 2022.1
 `sqlparse` | 0.4.2
 </pre>
-
 ## Tools:
 - Svelte - frontend part javascript framework 
 - Django - server part python framework
